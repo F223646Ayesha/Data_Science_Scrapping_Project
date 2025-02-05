@@ -1,6 +1,6 @@
 # NeurIPS Paper Scraper
 
-This repository contains two scripts (`scraper.java` and `scraper.py`) for scraping research papers from the NeurIPS website. The scripts extract paper metadata (title, authors, year, PDF URL) and download the PDFs into organized folders.
+This repository contains two scripts (`NeurIPSWebScraper.java` and `scraper.py`) for scraping research papers from the NeurIPS website. The scripts extract paper metadata (title, authors, year, PDF URL) and download the PDFs into organized folders.
 
 ## Table of Contents
 - Requirements
@@ -59,7 +59,6 @@ Compile and run the Java program:
 
 ```bash
 javac -cp .;jsoup.jar;httpclient.jar NeurIPSWebScraper.java  
-java -cp .;jsoup.jar;httpclient.jar scraper
 ```
 This will:
 ✅ Scrape NeurIPS papers from multiple years  

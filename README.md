@@ -69,3 +69,4 @@ Responsible Scraping
 
 Blog Post
 Read my blog about the scraping process on Medium: 
+https://medium.com/@f223646/web-scraping-for-academic-research-challenges-insights-and-best-practices-8fe9b6af068b

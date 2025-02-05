@@ -68,7 +68,7 @@ This will:
 ---
 
 ## Output Files
-- `output.csv` (Python): Contains extracted paper metadata in CSV format
+- `neurips_papers.csv` (Python): Contains extracted paper metadata in CSV format
 - **Downloaded PDFs**: Saved in separate folders by year
 
 ---
